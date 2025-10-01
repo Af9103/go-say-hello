@@ -1,3 +1,3 @@
-module github.com/Af9103/go-say-hello/v2
+module github.com/Af9103/go-say-hello
 
 go 1.25.1
